@@ -9,7 +9,7 @@ This course will teach you how to use Git. You will learn how to install Git, co
 
 ## Scenarios
 
-|   Index | Name                            | Difficulty   | URL                                                                    |
+|   Index | Name                            | Difficulty   | Practice                                                               |
 |---------|---------------------------------|--------------|------------------------------------------------------------------------|
 |       1 | 📖 Your First Git Lab            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92739'>Start Lab</a>    |
 |       2 | 🎯 Git Configuration with GitHub | ★☆☆          | <a target='_blank' href='https://labex.io/labs/23'>Start Challenge</a> |
@@ -20,4 +20,9 @@ This course will teach you how to use Git. You will learn how to install Git, co
 |       7 | 📖 View Current Status           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/12781'>Start Lab</a>    |
 |       8 | 📖 Create a Git Commit           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/12715'>Start Lab</a>    |
 |       9 | 📖 Push Local Changes to Remote  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/12748'>Start Lab</a>    |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
 
