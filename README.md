@@ -23,6 +23,7 @@ This course will teach you how to use Git. You will learn how to install Git, co
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Git Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Git Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
 
