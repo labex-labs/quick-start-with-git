@@ -1,6 +1,6 @@
 # Quick Start with Git
 
-![Quick Start with Git](https://cover-creator.labex.io/quick-start-with-git.png)
+![Quick Start with Git](https://cover-creator.appbot.io/quick-start-with-git.png)
 
 This course will teach you how to use Git. You will learn how to install Git, configure it, and use it to perform a wide variety of tasks, such as creating and cloning repositories, creating branches, staging files, committing changes, pushing changes to remote repositories, and more. 
 
