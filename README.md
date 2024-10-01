@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                   | Difficulty   | Practice                                                                                                                |
-|---------|----------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                  | Difficulty   | Practice                                                                                                                |
+|---------|---------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First Git Lab                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-your-first-git-lab-92739'>Start Lab</a>                         |
 |      02 | 🎯 Operation Quantum Leap              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-operation-quantum-leap-387717'>Start Challenge</a>              |
 |      03 | 📖 Git Config Management               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-git-config-management-385164'>Start Lab</a>                     |
