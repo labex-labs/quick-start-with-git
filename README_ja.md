@@ -31,30 +31,30 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                  | 難易度   | 練習                                                                                                                        |
 |----------------|---------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 あなたの最初の Git 実験            | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-your-first-git-lab-92739'>ラボを開始</a>                         |
-|             02 | 🎯 オペレーション・クォンタム・リープ | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-operation-quantum-leap-387717'>チャレンジを開始</a>              |
-|             03 | 📖 Git 設定管理                       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-git-config-management-385164'>ラボを開始</a>                     |
-|             04 | 🎯 タイムマシンのアイデンティティ設定 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-time-machine-identity-configuration-387720'>チャレンジを開始</a> |
-|             05 | 📖 ファイルとステージングエリアの操作 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-working-with-files-and-staging-area-387457'>ラボを開始</a>       |
-|             06 | 🎯 時間旅行者のスーツケース           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-the-time-traveler-s-suitcase-387725'>チャレンジを開始</a>        |
-|             07 | 📖 Git ブランチの基本操作             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-git-branch-basic-operations-385163'>ラボを開始</a>               |
-|             08 | 🎯 タイムトラベラーのジレンマ         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-the-time-traveler-s-dilemma-387733'>チャレンジを開始</a>         |
-|             09 | 📖 Git コミット操作の高度なテクニック | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-advanced-git-commit-operations-387471'>ラボを開始</a>            |
-|             10 | 🎯 履歴の書き換え                     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-rewriting-history-387746'>チャレンジを開始</a>                   |
-|             11 | 📖 作業中の作業の保存                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-saving-work-in-progress-387492'>ラボを開始</a>                   |
-|             12 | 🎯 タイムトラベルする開発者           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-the-time-traveling-developer-387759'>チャレンジを開始</a>        |
-|             13 | 📖 重要なマイルストーンのマーキング   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-marking-important-milestones-387493'>ラボを開始</a>              |
-|             14 | 🎯 プロジェクトの履歴にタグ付けする   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-tagging-your-project-s-history-387763'>チャレンジを開始</a>      |
-|             15 | 📖 Git 履歴とログ管理                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-git-history-and-log-management-387490'>ラボを開始</a>            |
-|             16 | 🎯 Git タイムディテクティブ           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-git-time-detective-387782'>チャレンジを開始</a>                  |
-|             17 | 📖 Git Diff の詳細解説                | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-git-diff-deep-dive-387489'>ラボを開始</a>                        |
-|             18 | 🎯 秘密のコード変更を明らかにする     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/uncover-the-secret-code-changes-387768'>チャレンジを開始</a>         |
-|             19 | 📖 Git Reset と Reflog                | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-git-reset-and-reflog-387491'>ラボを開始</a>                      |
-|             20 | 🎯 失われたファイルを回復する         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/git-recover-the-lost-files-387781'>チャレンジを開始</a>              |
+|             01 | 📖 あなたの最初の Git 実験            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-your-first-git-lab-92739'>ラボを開始</a>                         |
+|             02 | 🎯 オペレーション・クォンタム・リープ | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-operation-quantum-leap-387717'>チャレンジを開始</a>              |
+|             03 | 📖 Git 設定管理                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-git-config-management-385164'>ラボを開始</a>                     |
+|             04 | 🎯 タイムマシンのアイデンティティ設定 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-time-machine-identity-configuration-387720'>チャレンジを開始</a> |
+|             05 | 📖 ファイルとステージングエリアの操作 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-working-with-files-and-staging-area-387457'>ラボを開始</a>       |
+|             06 | 🎯 時間旅行者のスーツケース           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-the-time-traveler-s-suitcase-387725'>チャレンジを開始</a>        |
+|             07 | 📖 Git ブランチの基本操作             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-git-branch-basic-operations-385163'>ラボを開始</a>               |
+|             08 | 🎯 タイムトラベラーのジレンマ         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-the-time-traveler-s-dilemma-387733'>チャレンジを開始</a>         |
+|             09 | 📖 Git コミット操作の高度なテクニック | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-advanced-git-commit-operations-387471'>ラボを開始</a>            |
+|             10 | 🎯 履歴の書き換え                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-rewriting-history-387746'>チャレンジを開始</a>                   |
+|             11 | 📖 作業中の作業の保存                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-saving-work-in-progress-387492'>ラボを開始</a>                   |
+|             12 | 🎯 タイムトラベルする開発者           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-the-time-traveling-developer-387759'>チャレンジを開始</a>        |
+|             13 | 📖 重要なマイルストーンのマーキング   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-marking-important-milestones-387493'>ラボを開始</a>              |
+|             14 | 🎯 プロジェクトの履歴にタグ付けする   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-tagging-your-project-s-history-387763'>チャレンジを開始</a>      |
+|             15 | 📖 Git 履歴とログ管理                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-git-history-and-log-management-387490'>ラボを開始</a>            |
+|             16 | 🎯 Git タイムディテクティブ           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-git-time-detective-387782'>チャレンジを開始</a>                  |
+|             17 | 📖 Git Diff の詳細解説                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-git-diff-deep-dive-387489'>ラボを開始</a>                        |
+|             18 | 🎯 秘密のコード変更を明らかにする     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/uncover-the-secret-code-changes-387768'>チャレンジを開始</a>         |
+|             19 | 📖 Git Reset と Reflog                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-git-reset-and-reflog-387491'>ラボを開始</a>                      |
+|             20 | 🎯 失われたファイルを回復する         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/git-recover-the-lost-files-387781'>チャレンジを開始</a>              |
 
 ## その他
 
-- 🔗 [Git Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Git Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
+- 🔗 [Git プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Git プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Git 無料チュートリアル](https://github.com/labex-labs/git-free-tutorials)
 
